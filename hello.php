@@ -1,3 +1,3 @@
 <?php 
 
-echo 'Hello GIT - first commit';
+echo 'Hello GIT - second commit';
